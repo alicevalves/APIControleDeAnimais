@@ -1,0 +1,17 @@
+{
+  "name": "APIControleDeAnimais",
+  "version": "1.0.0",
+  "description": "Api em NodeJS para controle de animais",
+  "main": "index.js",
+  "repository": "https://github.com/alicevalves/APIControleDeAnimais.git",
+  "author": "alicevalves",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "firebase": "^7.24.0"
+  }
+}
