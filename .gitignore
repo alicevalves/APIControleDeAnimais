@@ -10,3 +10,4 @@
 *.sig
 
 pkg/
+node_modules
